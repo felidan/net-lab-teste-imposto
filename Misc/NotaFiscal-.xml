@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NotaFiscal xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <NumeroNotaFiscal>99999</NumeroNotaFiscal>
+  <Serie>1488475066</Serie>
+  <NomeCliente />
+  <EstadoDestino />
+  <EstadoOrigem />
+  <ItensDaNotaFiscal />
+</NotaFiscal>

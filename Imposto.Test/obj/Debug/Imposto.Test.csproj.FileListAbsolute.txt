@@ -1,0 +1,16 @@
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Imposto.Test.dll
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Imposto.Test.pdb
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Imposto.Core.dll
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Imposto.Core.pdb
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\obj\Debug\Imposto.Test.csprojAssemblyReference.cache
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\obj\Debug\Imposto.Test.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\obj\Debug\Imposto.Test.csproj.CopyComplete
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\obj\Debug\Imposto.Test.dll
+C:\Users\felip\Downloads\net-lab-master\TesteImposto\Imposto.Test\obj\Debug\Imposto.Test.pdb
